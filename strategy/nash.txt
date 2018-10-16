@@ -1,0 +1,14 @@
+2,6% = AA, KK, QQ, AKs, AKo
+4,2% = TT, JJ, AQs, AQs
+7,5% = 99, AJs, AJo, KQs, KQo
+12,8% = 88, 77, ATs, ATo, A9s, A9o, A8s, KJs, KJo
+21,6% = 66, 55, 44, 33, 22, A8o, A7s, A7o, A6s, A6o, A5s, A5o, A4s, A3s, A2s, KTs, KTo, K9s
+29,7% = A4o, A3o, A2o, K8s, K7s, K6s, K5s, K9o, K8o, K7o, QJs, QTs, QJo
+38,8% = K4s, K3s, K2s, K6o, K5o, K4o, K3o, K2o, Q9s, Q8s, JTs, J9s, T9s, 98s, QTo, JTo
+48,1% = Q7s, Q6s, Q5s, Q4s, Q3s, Q2s, Q9o, Q8o, Q7o, Q6o, J8s, J7s, J9o, T8s, T7s, T9o, 97s, 87s, 76s
+61,4% = Q5o, Q4o, Q3o, Q2o, J6s, J5s, J4s, J3s, J2s, J8o, J7o, J6o, T6s, T8o, T7o, 96s, 98o, 97o, 86s, 87o
+71,1% = J5o, J4o, J3o, J2o, T5s, T4s, T3s, T2s, 65s, 54s, 43s, 32s, 95s, 85s, 75s, T6o, T5o
+
+
+
+
